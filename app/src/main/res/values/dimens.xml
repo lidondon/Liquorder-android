@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="navigation_bar_height">56dp</dimen>
+    <dimen name="app_bar_height">150dp</dimen>
+    <dimen name="edit_text_drawable_padding">16dp</dimen>
+    <dimen name="item_half_padding">8dp</dimen>
+    <dimen name="item_padding">16dp</dimen>
+    <dimen name="item_double_padding">32dp</dimen>
+    <dimen name="item_triple_padding">32dp</dimen>
+    <dimen name="item_quadruple_padding">64dp</dimen>
+    <dimen name="category_item_padding_left">8dp</dimen>
+    <dimen name="category_item_padding_top">32dp</dimen>
+    <dimen name="default_item_space_h">16dp</dimen>
+    <dimen name="default_item_space_v">16dp</dimen>
+    <dimen name="default_corner_radius">3dp</dimen>
+    <dimen name="tab_height">40dp</dimen>
+    <dimen name="horizontal_line_thickness">1dp</dimen>
+    <dimen name="bottom_sheet_quantity">40dp</dimen>
+    <dimen name="button_corner_radius">5dp</dimen>
+    <dimen name="textview_corner_radius">25dp</dimen>
+    <dimen name="ordered_line">5dp</dimen>
+    <dimen name="quantity_margin_end">10dp</dimen>
+<!--  Text size  -->
+    <dimen name="input_size">16sp</dimen>
+    <dimen name="button_size">18sp</dimen>
+    <dimen name="item_title">18sp</dimen>
+    <dimen name="item_text">14sp</dimen>
+    <dimen name="filter_text">14sp</dimen>
+    <dimen name="bottom_sheet_title">24sp</dimen>
+    <dimen name="bottom_sheet_text">18sp</dimen>
+    <dimen name="collapsed_expended">24sp</dimen>
+    <dimen name="first_word">32sp</dimen>
+<!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+<!-- Default screen margins, per the Android Design guidelines. -->
+</resources>

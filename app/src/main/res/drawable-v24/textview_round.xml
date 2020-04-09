@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 指定形狀類型，未指定默認為rectangle（矩型） -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 指定形狀的填充色 -->
+    <solid android:color="@color/colorPrimaryDark" />
+    <!-- 設定圓角，只適用於 rectangle （矩型）-->
+    <corners android:radius="@dimen/textview_corner_radius" />
+</shape>

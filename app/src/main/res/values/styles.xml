@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="CollapsedAppBar.Collapsed" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/colorPrimaryLight</item>
+    </style>
+
+    <style name="CollapsedAppBar.Expended" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:textSize">@dimen/collapsed_expended</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="CartAppBar" parent="ThemeOverlay.AppCompat.Dark">
+        <item name="android:background">@color/colorPrimaryDark</item>
+    </style>
+
+</resources>
